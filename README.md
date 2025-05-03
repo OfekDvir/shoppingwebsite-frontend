@@ -38,3 +38,5 @@ git clone https://github.com/OfekDvir/shoppingwebsite-frontend.git
 cd shoppingwebsite-frontend
 npm install
 npm start
+Make sure the backend is running on the correct port (e.g., http://localhost:8080).
+
