@@ -1,7 +1,6 @@
 
 ---
 
-### 🧾 דוגמה ל־README — frontend (`shoppingwebsite-frontend`
 ```markdown
 # 🛍️ Shopping Website - Frontend
 
